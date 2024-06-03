@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8341d9e0-0e00-484c-b4b5-f86c590e22c2" name="Uni Trier" url="http://hosting.wi1cm.uni-trier.de">
+        <fileTransfer accessType="FTPS" host="hosting.wi1cm.uni-trier.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
