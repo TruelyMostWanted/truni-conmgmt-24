@@ -1,0 +1,6 @@
+{namespace k=EBT\ExtensionBuilder\ViewHelpers}{escaping off}<f:format.raw><k:openingTag>html
+    xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers"
+    xmlns:be="http://typo3.org/ns/TYPO3/CMS/Backend/ViewHelpers"
+    data-namespace-typo3-fluid="true"</k:openingTag>
+    <k:openingTag>f:render section="Content" /</k:openingTag>
+<k:openingTag>/html</k:openingTag></f:format.raw>

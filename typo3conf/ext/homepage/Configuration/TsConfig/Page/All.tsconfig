@@ -1,0 +1,7 @@
+#
+# PageTS for Homepage
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:homepage/Configuration/TsConfig/Page/RTE.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:homepage/Configuration/TsConfig/Page/TCEFORM.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:homepage/Configuration/TsConfig/Page/TCEMAIN.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:homepage/Configuration/TsConfig/Page/Mod/WebLayout/BackendLayouts.tsconfig">
